@@ -1,2 +1,0 @@
-# ProyectoSistemasDistribuidos
-Proyecto Node JS
